@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Max",
+    "surname": "Verstappen",
+    "nationality": "Netherlands",
+    "team": "Red Bull Racing"
+  },
+  {
+    "name": "Daniel",
+    "surname": "Ricciardo",
+    "nationality": "Australia",
+    "team": "McLaren"
+  },
+  {
+    "name": "Lando",
+    "surname": "Norris",
+    "nationality": "McLaren",
+    "team": "United Kindom"
+  },
+  {
+    "name": "Sebastian",
+    "surname": "Vettel",
+    "nationality": "Germany",
+    "team": "Aston Martin Racing"
+  },
+  {
+    "name": "Nicholas",
+    "surname": "Latifi",
+    "nationality": "Canada",
+    "team": "Williams"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Gasly",
+    "nationality": "France",
+    "team": "AlphaTauri"
+  },
+  {
+    "name": "Sergio",
+    "surname": "Perez",
+    "nationality": "Mexico",
+    "team": "Red Bull Racing"
+  },
+  {
+    "name": "Fernando",
+    "surname": "Alonso",
+    "nationality": "Spain",
+    "team": "Alpine"
+  }
+]
+
