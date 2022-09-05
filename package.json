@@ -7,6 +7,8 @@
     "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "devDependencies": {
+    "@pnotify/confirm": "^5.2.0",
+    "@pnotify/core": "^5.2.0",
     "parcel": "latest",
     "parcel-plugin-handlebars-precompile": "^1.0.2"
   }
