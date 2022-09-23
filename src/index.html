@@ -7,12 +7,30 @@
   <title>Document</title>
 </head>
 <body>
-  <div>
-    <button class="start-button">Start the race</button>
-    <!-- <p class="winner"></p>
-    <p class="results"></p> -->
+  <div class="container">
+    <div class="slider">
+      <div class="slider__slides">
+        <div class="slider__slide active">
+          <img src="https://cdn.pixabay.com/photo/2014/11/15/23/29/fairytale-532850_960_720.jpg"
+           alt="first castle">
+        </div>
+        <div class="slider__slide">
+          <img src="https://cdn.pixabay.com/photo/2017/08/07/10/05/neuschwanstein-2602208_960_720.jpg" alt="second castle">
+        </div>
+        <div class="slider__slide">
+          <img src="https://cdn.pixabay.com/photo/2020/07/09/10/32/water-5386820_960_720.jpg" 
+          alt="third castle">
+        </div>
+        <div class="slider__slide">
+          <img src="https://cdn.pixabay.com/photo/2020/09/20/19/05/castle-5588005_960_720.jpg" 
+          alt="fourth castle">
+        </div>
+        <div id="nav-button--prev" class="slider__nav-button"></div>
+        <div id="nav-button--next" class="slider__nav-button"></div>
+      </div>
+    </div>
   </div>
-  <ul class="images-list"></ul>
+
   <script src="./js/index.js"></script>
 </body>
 </html>
